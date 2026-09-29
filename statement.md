@@ -9,20 +9,20 @@ Finding and comparing specifications of different cars can be difficult when the
 
 The project covers information about 15 cars and provides basic operations such as:
 
-Viewing car information
-Selecting a random car
-Comparing two cars
-Creating a Top 3 favourite-car list
-Handling invalid inputs
+- Viewing car information
+- Selecting a random car
+- Comparing two cars
+- Creating a Top 3 favourite-car list
+- Handling invalid inputs
 
 The project is a console-based application and does not use an external database or graphical interface.
 
 ## 3. Target Users
 
-Car enthusiasts
-Students learning Python
-Users interested in comparing car specifications
-Beginners who want to explore car-related data
+- Car enthusiasts
+- Students learning Python
+- Users interested in comparing car specifications
+- Beginners who want to explore car-related data
 
 ## 4. High-Level Features
 
