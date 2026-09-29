@@ -25,12 +25,11 @@ A Python console program that stores information about 15 cars and allows users 
 
 ## 5. Steps to Install & Run
 
-Install Python 3.
-Save the program as car_info.py.
-Open the file in a Python IDE or terminal.
-Run:
-python car_info.py
-Select an option from the displayed menu.
+- Install Python 3.
+- Save the program as car_info.py.
+- Open the file in a Python IDE or terminal.
+- Run: python car_info.py
+- Select an option from the displayed menu.
 
 ## 6. Instructions for Testing
 
