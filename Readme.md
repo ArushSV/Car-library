@@ -1,14 +1,12 @@
-car information and Comparison System
+## car information and Comparison System
 
-1. Project Title
+## 1. Project Title
+ Car Information and Comparison System
 
-Car Information and Comparison System
-
-2. Overview
-
+## 2. Overview
 A Python console program that stores information about 15 cars and allows users to view car details, compare two cars, and create a Top 3 favourite-car list.
 
-3. Features
+## 3. Features
 
 View information about any of the 15 cars.
 Get information about a randomly selected car.
@@ -17,7 +15,7 @@ Create a Top 3 favourite-car list.
 Handles invalid car numbers.
 Simple menu-based interface.
 
-4. Technologies/Tools Used
+## 4. Technologies/Tools Used
 
 Python 3
 Random Module
@@ -25,7 +23,7 @@ Python Dictionaries and Lists
 Functions, Loops, and Conditional Statements
 IDE: VS Code / IDLE
 
-5. Steps to Install & Run
+## 5. Steps to Install & Run
 
 Install Python 3.
 Save the program as car_info.py.
@@ -34,7 +32,7 @@ Run:
 python car_info.py
 Select an option from the displayed menu.
 
-6. Instructions for Testing
+## 6. Instructions for Testing
 
 Car Information
 
