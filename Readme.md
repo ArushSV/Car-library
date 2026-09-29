@@ -8,20 +8,20 @@ A Python console program that stores information about 15 cars and allows users 
 
 ## 3. Features
 
-View information about any of the 15 cars.
-Get information about a randomly selected car.
-Compare two cars and their specifications.
-Create a Top 3 favourite-car list.
-Handles invalid car numbers.
-Simple menu-based interface.
+- View information about any of the 15 cars.
+- Get information about a randomly selected car.
+- Compare two cars and their specifications.
+- Create a Top 3 favourite-car list.
+- Handles invalid car numbers.
+- Simple menu-based interface.
 
 ## 4. Technologies/Tools Used
 
-Python 3
-Random Module
-Python Dictionaries and Lists
-Functions, Loops, and Conditional Statements
-IDE: VS Code / IDLE
+- Python 3
+- Random Module
+- Python Dictionaries and Lists
+- Functions, Loops, and Conditional Statements
+- IDE: VS Code / IDLE
 
 ## 5. Steps to Install & Run
 
